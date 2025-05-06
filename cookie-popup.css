@@ -22,14 +22,14 @@
 }
 
 #cookie-popup a:hover {
-  color: lightpink;
+  color: rgb(255, 143, 160);
   text-decoration: underline;
 }
 
 #accept-cookies {
   font-family: "Source Code Pro", monospace;
   background-color: #fff;
-  color: #333;
+  color: #000000;
   border: none;
   padding: 5px 10px;
   font-size: 1.25rem;
