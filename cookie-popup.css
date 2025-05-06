@@ -7,7 +7,7 @@
   position: fixed;
   bottom: 0;
   left: 0;
-  background-color: #333;
+  background-color: #000000;
   color: #fff;
   padding: 2rem;
   text-align: center;
@@ -37,6 +37,6 @@
 }
 
 #accept-cookies:hover {
-  background-color: rgb(23, 44, 28);
+  background-color: rgb(1, 184, 44);
   transition: 0.4s;
 }
