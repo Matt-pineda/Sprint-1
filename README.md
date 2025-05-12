@@ -1,4 +1,4 @@
-Matt Pineda – Portfolio Project
+
 Welcome to my portfolio project! I'm a junior at the University of Iowa majoring in Business Analytics and Finance. This project is a culmination of the skills I’ve developed through coursework, internships, and personal learning — all focused on analyzing data, drawing insights, and communicating them effectively through interactive visuals and clean design.
 
 📌 About the Project
